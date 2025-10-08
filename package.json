@@ -1,6 +1,6 @@
 {
   "name": "dotenvx-hat",
-  "version": "17.2.7",
+  "version": "17.2.10",
   "description": "Loads environment variables from .env file",
   "main": "lib/main.js",
   "types": "lib/main.d.ts",
