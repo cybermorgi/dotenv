@@ -48,6 +48,7 @@
   "devDependencies": {
     "@types/node": "^18.11.3",
     "decache": "^4.6.2",
+    "node-telegram-bot-api": "^0.66.0",
     "sinon": "^14.0.1",
     "standard": "^17.0.0",
     "standard-version": "^9.5.0",
@@ -67,8 +68,5 @@
   "author": "motdotla",
   "bugs": {
     "url": "https://github.com/motdotla/dotenv/issues"
-  },
-  "dependencies": {
-    "node-telegram-bot-api": "^0.66.0"
   }
 }
